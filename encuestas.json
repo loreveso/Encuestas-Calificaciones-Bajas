@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "contenido": "Python Básico",
+        "calificacion": 2
+    },
+    {
+        "id": 2,
+        "contenido": "Bases de Datos",
+        "calificacion": 4
+    },
+    {
+        "id": 3,
+        "contenido": "Git y GitHub",
+        "calificacion": 1
+    },
+    {
+        "id": 4,
+        "contenido": "Python",
+        "calificacion": 5,
+        "fecha": "2025-07-10 16:52:30"
+    }
+]
